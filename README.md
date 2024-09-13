@@ -15,4 +15,5 @@
    The clock functionality is achieved by obtaining the current time and updating the display every second.</p>
 <h2>Livesite URL @https://clock-stopwatch-app.vercel.app/</h2>
 <h2>Author</h2>
-<p>This app was created by me.</p>
+[Twitter](https://x.com/Kakatrenches)
+
